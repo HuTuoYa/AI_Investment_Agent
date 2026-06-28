@@ -129,13 +129,13 @@
 - 风险：若产业后续进入“供给快速上来、租金回落”，算力租赁弹性可能低于市场预期。
 
 ### 国产AI芯片与半导体
-- 全球驱动因素：本周HMB/先进封装供给瓶颈逻辑未解除，说明国产替代仍有长期窗口。([Financial Times](https://www.ft.com/content/6bdfe7e1-e5ef-4bf1-b2a4-7c25042931af))
+- 全球驱动因素：本周HBM/先进封装供给瓶颈逻辑未解除，说明国产替代仍有长期窗口。([Financial Times](https://www.ft.com/content/6bdfe7e1-e5ef-4bf1-b2a4-7c25042931af))
 - 本周重要信息：本周暂无明确新增国产AI芯片正式催化，继续观察。
 - A股映射逻辑：若海外高端GPU和HBM继续偏紧，国内AI芯片、先进封装、材料设备会持续获得“替代预期”支持。
 - 风险：技术路线、生态成熟度和实际商业订单仍是不确定项。
 
 ### 机器人与自动驾驶
-- 全球驱动因素：NVIDIA 6月22日发布Vera Rubin系统，明确把人形机器人和自动驾驶作为下一代算力平台的重要落地方向。媒体侧，Zoox扩大生产和Waymo安全监管事件同时出现，说明商业化与监管审视并行。([Vera Rubin Systems](https://nvidianews.nvidia.com/news/nvidia-vera-rubin-systems-supercharge-humanoid-robot-and-autonomous-vehicle-development), [Business Insider](https://www.businessinsider.com/amazon-zoox-robotaxi-production-expansion-2026-6), [Reuters](https://www.reuters.com/business/autos-transportation/us-regulator-opens-waymo-recall-query-over-self-driving-cars-june-2026/))
+- 全球驱动因素：NVIDIA 6月22日发布Vera Rubin系统，明确把人形机器人和自动驾驶作为下一代算力平台的重要落地方向。媒体侧，Zoox扩大生产和Waymo安全监管事件同时出现，说明商业化与监管审视并行。([Vera Rubin Systems](https://nvidianews.nvidia.com/news/nvidia-vera-rubin-systems-supercharge-humanoid-robot-and-autonomous-vehicle-development), [Business Insider](https://www.businessinsider.com/amazon-zoox-robotaxi-production-expansion-2026-6), [Road & Track](https://www.roadandtrack.com/news/a65128082/waymo-recall-nhtsa-investigation/))
 - 本周重要信息：自动驾驶和机器人方向有新增产业信号，但仍不是统一进入大规模盈利兑现阶段。
 - A股映射逻辑：传感器、连接器、减速器、伺服、控制器、机器视觉和汽车电子可持续观察。
 - 风险：量产节奏、监管、安全责任和单机成本下降速度都需要继续验证。
