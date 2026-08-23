@@ -14,7 +14,7 @@
 - 本周是否有新信息：有AI Agent/数据工具产品化信息，但未发现明确新增CapEx口径。
 - CapEx是否上修 / 维持 / 下修：本周无新增正式口径，维持此前披露口径。
 - 数据中心或AI基础设施建设是否加速：不足以判断。
-- 关键数据或原文要点：8月18日，Microsoft发布“Azu re Cosmos DB in the Agentic Era”，推出Agent Memory Toolkit和Agentic Retrieval Toolkit，说明其在Agent生产化所需数据层工具上继续投入，但这不等同于本周CapEx上修。
+- 关键数据或原文要点：8月18日，Microsoft发布“Azure Cosmos DB in the Agentic Era”，推出Agent Memory Toolkit和Agentic Retrieval Toolkit，说明其在Agent生产化所需数据层工具上继续投入，但这不等同于本周CapEx上修。
 - 来源链接：[Microsoft Dev Blog](https://devblogs.microsoft.com/cosmosdb/azure-cosmos-db-in-the-agentic-era-data-tools-for-developers-and-ai-agents/), [Microsoft Investor Earnings](https://www.microsoft.com/en-us/Investor/earnings)
 - 对AI产业链的含义：更偏应用和平台层落地，支持中长期数据库、云服务和Agent生态需求，但对本周A股算力链的边际催化有限。
 
